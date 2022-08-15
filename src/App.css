@@ -21,6 +21,7 @@ h4 {
   align-items: center;
   flex-direction: column;
   gap: 50px;
+  padding: 40px 0;
 }
 
 .card-head {
@@ -53,6 +54,7 @@ h4 {
 
 .switch {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   gap: 40px;
   padding: 1rem;
